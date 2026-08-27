@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Lack-Of-Name&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lyren%20-%20UTC%2B10%20-%20React%20Native%20and%20TypeScript&descAlignY=56" alt="header"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=React+Native+Developer;Offline+Mapping+and+Field+Navigation;TypeScript+%7C+Expo+%7C+MapLibre;Available+for+freelance+and+roles" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Lyren&(Lack&Of&Name)" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### About
 
-I am Lyren, a developer focused on cross platform mobile and mapping tools. I build reliable, offline first navigation products with React Native, Expo, and TypeScript. Based in UTC+10, open to remote roles and contract work where map accuracy, performance, and field usability matter.
+I am Lyren, based in UTC+10.
 
 Current focus is CadNav2, a production navigation app for Android and iOS with offline packs, MGRS grid, and sensor driven compass.
 
@@ -84,34 +84,26 @@ Stack: React Native 0.81, Expo 54, TypeScript 5.9, MapLibre GL, MapTiler, Turf.j
 ### Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lack-Of-Name&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lack-Of-Name&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />&nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lack-Of-Name&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top langs" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Lack-Of-Name&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B6B&ring=7C3AED&currStreakLabel=7C3AED" alt="streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Lack-Of-Name&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B6B&ring=7C3AED&currStreakLabel=7C3AED" alt="streak" />&nbsp;
   <img height="160" src="https://github-profile-trophy.vercel.app/?username=Lack-Of-Name&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lack-Of-Name&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lack-Of-Name&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lack-Of-Name&theme=tokyonight" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lack-Of-Name&theme=tokyonight" width="100%" alt="profile details" />
 </div>
 
-### Contact and Availability
-
 <div align="center">
-
-Available for remote contract and full time roles in mobile, mapping, and TypeScript.
-
-<a href="https://github.com/Lack-Of-Name"><img src="https://img.shields.io/badge/GitHub-Lack--Of--Name-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/Lack-Of-Name/CadNav2"><img src="https://img.shields.io/badge/Project-CadNav2-7c3aed?style=for-the-badge&logo=maplibre&logoColor=white" alt="CadNav2" /></a>
-
-Open to discussions on React Native, Expo, offline mapping, and field tools. For work inquiries, open an issue in CadNav2 or connect via GitHub.
-
+  <a href="https://github.com/Lack-Of-Name"><img src="https://img.shields.io/badge/GitHub-Lack--Of--Name-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Lack-Of-Name/CadNav2"><img src="https://img.shields.io/badge/Project-CadNav2-7c3aed?style=for-the-badge&logo=maplibre&logoColor=white" alt="CadNav2" /></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer&text=&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="footer"/>
