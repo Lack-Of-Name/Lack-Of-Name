@@ -7,9 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lack-Of-Name&label=Profile%20views&color=7c3aed&style=flat" alt="profile views" />
   <a href="https://github.com/Lack-Of-Name?tab=followers"><img src="https://img.shields.io/github/followers/Lack-Of-Name?label=Followers&style=flat&color=0ea5e9&logo=github" alt="followers"/></a>
-  <a href="https://github.com/Lack-Of-Name?tab=following"><img src="https://img.shields.io/github/following/Lack-Of-Name?label=Following&style=flat&color=6366f1&logo=github" alt="following"/></a>
-  <img src="https://img.shields.io/badge/Pro-true-00d084?style=flat&logo=github" alt="Pro"/>
-  <img src="https://img.shields.io/badge/Pull%20Shark-true-4ade80?style=flat" alt="Pull Shark"/>
 </p>
 
 ### About
