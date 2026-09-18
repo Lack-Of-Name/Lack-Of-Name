@@ -68,4 +68,5 @@ Screenshots from the CadNav2 manual.
 
 Usually either testing maps outside or breaking my own routing logic on purpose to see what happens.
 
+<!-- yolo: merged without review -->
 
