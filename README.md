@@ -31,7 +31,7 @@ Stack: React Native 0.81, Expo 54, TypeScript 5.9, MapLibre GL, MapTiler, Turf.j
 * Maps and geo: MapLibre GL, MapTiler, Turf.js, MGRS, WMM declination
 * Tooling: TypeScript, EAS Build, ESLint, Git
 
-I have poked at plenty of other stuff over the years, but this is the kit I actually reach for.
+JS is my favourite language :3
 
 ## Featured: CadNav2
 
@@ -67,4 +67,5 @@ Screenshots from the CadNav2 manual.
 * [CadNav2](https://github.com/Lack-Of-Name/CadNav2)
 
 Usually either testing maps outside or breaking my own routing logic on purpose to see what happens.
+
 
